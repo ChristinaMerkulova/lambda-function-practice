@@ -1,1 +1,1 @@
-# lambda-function-practice
+Repository with solutions to problems
